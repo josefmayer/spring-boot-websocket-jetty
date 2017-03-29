@@ -10,11 +10,11 @@ via spring-boot-maven-plugin:
 *mvn spring-boot:run*
 
 ##### Build jar, Run jar
-*mvn package*  
+*mvn package*
 *java -jar target/jar-name.jar*
 
 ##### Access Application
-*http://localhost:8080*
+*localhost:8080*
 
 
 ### Original Source:
